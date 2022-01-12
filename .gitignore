@@ -1,0 +1,6 @@
+.env
+/env
+main_data_base.db3
+.idea
+.pytest_cache
+__pycache__
